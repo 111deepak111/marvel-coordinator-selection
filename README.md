@@ -11,4 +11,11 @@ GA (Genetic ALgorithm) is a subset of EA. In GA a fewer genetic operators are ap
 ![GA](https://2900157524-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LZMLRvaju5sqPs7pYTX%2F-Ltv4uFdHxY7yt_MdVwX%2F-LrPm3TI57kjTUXtuCts%2Fwhatisgenetic3.png?generation=1574023185419913&alt=media)
 
 # NeuroEvolution of Augmenting Topology
-NEAT (NeuroEvolution of Augmenting Topology) is a type of GA for generating evolving artificial neural networks.
+![NEAT](https://www.investopedia.com/thmb/5-hnhHpOzLM2GVXPlSstg8tJYLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_Final_Neural_Network_Apr_2020-01-5f4088dfda4c49d99a4d927c9a3a5ba0.jpg)
+
+NEAT (NeuroEvolution of Augmenting Topology) is a type of GA. Now this dude is actually a stud. NeuroEvolution means evolving neurons? And augmenting, as said by google "make something greater by adding to it" And topology means the way in which constituent parts are arranged. So taking all these definitions and putting them together NEAT should mean something like Evolving Neurons by adding something to their arrangements? Yes, but replace the word neurons with neural network and Voilà! Now that we know the definition let me explain how this dude is actually a stud of the group, Unlike traditional machine learning methods where the topology of a neural network is fixed before training, This bad boy can evolve the topology of the network during training. And along with changing the connections of the nerual network it also helps in optimizing the weights and avoids getting stuck in the local optima and it offers many more advantages but lets stop here and compare it to GA. So let's explore why is this dude so much better than GA when it is said to be a part of GA. So does GA have those fancy circles connecting to more fancy circles for i/o called neural networks? Nope. Will the solution found by GA work for another not-so-same input? Nope. Fitness Function Evaluation? Sometimes the data GA need to process for evaluation of its fitness function is so big than it becomes very complex and time consuming. So yeah the biggest flex of NEAT over GA (according to me atleast) is that it has the ability to deal with randomly generated inputs.
+
+Resources:
+
+https://www.youtube.com/watch?v=ovIykchkW5I and ChatGPT
+![DONKEY KONG](https://p6.focus.de/img/fotos/id_498250/dig-donkey-kong.jpg?im=Crop%3D%280%2C138%2C1500%2C1124%29%3BResize%3D%28731%29&impolicy=perceptual&quality=medium&hash=068c4887a116d549d4b4ebcecb7de8ab78eaf1815bccfe48aa07f1862dcf2805)
